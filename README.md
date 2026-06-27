@@ -441,3 +441,6 @@ Run the SQL scripts in the `Database` folder to set up the database schema.
    npm run dev
    ```
 5. Access the application at: `http://localhost:5173` (or the port displayed in Vite's terminal).
+
+### Lisence
+This is a learning project on school. Not for publication purpose.
